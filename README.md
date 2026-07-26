@@ -1,20 +1,20 @@
 # PAYTM-DASHBOARD
 Paytm Transaction Analytics Dashboard:Comprehensive Overview of Paytm’s Transaction Performance and User Insights
 
-Dashboard Description
-This dashboard provides a detailed analysis of Paytm’s transaction data, highlighting key performance metrics such as total transaction value, success rate, and average transaction size. It visualizes monthly trends, user demographics across generations, and service-type breakdowns. Additionally, it offers insights into transaction behavior by weekdays versus weekends, helping identify patterns in user engagement and payment success.
+#Dashboard Description
+- This dashboard provides a detailed analysis of Paytm’s transaction data, highlighting key performance metrics such as total transaction value, success rate, and average transaction size. It visualizes monthly trends, user demographics across generations, and service-type breakdowns. Additionally, it offers insights into transaction behavior by weekdays versus weekends, helping identify patterns in user engagement and payment success.
 
-Purpose
-This dashboard tracks and analyzes Paytm’s transaction performance to help identify trends, user behavior, and service efficiency. It exists to provide actionable insights for improving transaction success rates and understanding customer engagement patterns. 
+#Purpose
+- This dashboard tracks and analyzes Paytm’s transaction performance to help identify trends, user behavior, and service efficiency. It exists to provide actionable insights for improving transaction success rates and understanding customer engagement patterns. 
 
-Tech Stack 
-The dashboard was built using the following tools and technologies: 
+#Tech Stack 
+- The dashboard was built using the following tools and technologies: 
 
- • Power BI Desktop – Main data visualization platform used for report creation. 
- • Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
- • DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional       logic.
- • Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation. 
- • File Format – .pbix for development and .png for dashboard previews. 
+ - • Power BI Desktop – Main data visualization platform used for report creation. 
+ - • Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+ - • DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional       logic.
+ - • Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation. 
+ - • File Format – .pbix for development and .png for dashboard previews. 
 
 Data source
 Phonepe-Final-Dataset.xlsx - Google Sheets 
