@@ -45,9 +45,10 @@ Business Impact & Insights
 -  Strategic Planning: Provides evidence-based insights for marketing campaigns, product improvements, and customer retention strategies.
 
 screenshots
-- DASHBOARD:-![PAYTM Dashboard](PAYTM-DASHBOARD/PAYTM%20DASHBOARD%20IMAGE.png)
+- DASHBOARD:-(PAYTM-DASHBOARD/PAYTM%20DASHBOARD%20IMAGE.png)
 
-- TOOLTIP:-[![Tooltip](PAYTM-DASHBOARD/TOOLTIP.png)](https://github.com/RISHABH07-NOV/PAYTM-DASHBOARD)
+- tooltip:- [![Tooltip](https://github.com/RISHABH07-NOV/PAYTM-DASHBOARD/blob/main/TOOLTIP.png)](https://github.com/RISHABH07-NOV/PAYTM-DASHBOARD/blob/main/TOOLTIP.png)
+
 
 
 
