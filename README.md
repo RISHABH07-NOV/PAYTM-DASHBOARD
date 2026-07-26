@@ -35,7 +35,7 @@ Walkthrough of Key Visuals
     - Monthly Trend Line Chart → Highlights transaction growth or decline over time.
     - User Demographics Chart → Breaks down transactions by generation (Gen Z, Millennials, etc.), showing who drives usage.
     - Service-Type Breakdown → Identifies which services (recharge, bill payment, shopping) contribute most to revenue.
-    - Weekday vs Weekend Analysis → Reveals behavioral patterns in transaction volume and success rates 
+    - Weekday vs Weekend Analysis → Reveals behavioral patterns in transaction volume and success rates
     - Tooltip → Showing how different generations—Gen Z, Millennial, Gen X, and Boomers—interact with Paytm’s services. It highlights demographic-specific transaction patterns, such as which age groups drive the highest volume, which services they prefer, and how their success rates vary. This generational breakdown helps the business identify target audiences for promotions, tailor product offerings, and design engagement strategies that resonate with each segment. In essence, the tooltip makes the dashboard more insightful by connecting raw transaction data to customer behavior across age groups, enabling Paytm to align its growth strategy with the needs of diverse users. 
     
 Business Impact & Insights
